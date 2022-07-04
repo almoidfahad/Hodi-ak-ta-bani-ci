@@ -17,5 +17,13 @@ p {
 
 img {
     width: 350px;
-    padding-left: 300px;
+    display: inline;
+    padding-left: 60px;
+}
+
+.fahad {
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+    border: 5px solid red;
 }
