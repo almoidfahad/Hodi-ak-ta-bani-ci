@@ -1,0 +1,21 @@
+div {
+    border: 5px;
+    margin: 10px;
+    padding: 20 px;
+    display: block;
+}
+
+h1 {
+    color: pink;
+    background-color: darkgray;
+}
+
+p {
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 350px;
+    padding-left: 300px;
+}
